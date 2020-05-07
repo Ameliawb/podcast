@@ -118,3 +118,4 @@ Once you have uploaded an episode to your audio file host, you’ll need to appl
 You’ll need an image for your podcast that represents your topic and style. This is our image, for an example. Images should always have a square ratio and be easy to read in a thumbnail, since they accompany your syndication, often as a tiny icon on someone’s phone.
 
 Happy podcasting! I’ll like and follow your feed if you [let me know it](https://twitter.com/ameliawb), and check out [DreamStacks](https://dreamstacks.buzzsprout.com/) to hear these strategies in real time.
+This blog post was originally posted on [Contentful's Blog.](https://www.contentful.com/blog/2020/05/06/on-the-record-how-to-start-a-podcast/)
